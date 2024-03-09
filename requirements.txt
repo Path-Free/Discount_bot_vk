@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+gspread==6.0.2
+Requests==2.31.0
+simplejson==3.19.2
+websocket_client==1.7.0
